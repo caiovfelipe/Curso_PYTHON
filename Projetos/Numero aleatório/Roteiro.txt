@@ -1,0 +1,1 @@
+Objetivo: Selecionar um numero aleatório entre 1 a 10, depois o usuario tenta um palpite. Se o palpite estiver certo, ele ganha o jogo, se não, aparece uma mensagem para ele continuar novamente. Se o número escolhido for maior que o intervalo previamente escolhido, o jogo corrigirá o usuário e pedirá que escolha apenas numeros entre 1 a 10.
