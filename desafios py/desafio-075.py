@@ -13,7 +13,7 @@ if a.count(3) == 0:
     print('O número 3 não apreceu em nenhum momento.')
 else:
     print('O número três apareceu primeiro na {} posição.'.format(a.index(3)+1))
-print('Os números pares foram ', end='')
+print('Os valores pares digitados foram ',end='')
 for np in a:
     if np % 2 == 0:
-        print(np, end=' ')
+        print(np, end='')
