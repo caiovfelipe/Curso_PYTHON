@@ -5,6 +5,7 @@ while True:
 
     #Nome
     if cont == 0:
+        nome = str(input('Digite o nome do aluno: '))
     else:
         nome = str(input('Digite o nome do outro aluno: '))
 
