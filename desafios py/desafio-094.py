@@ -32,8 +32,9 @@ for med in lista:
     quantm += 1
 media = media / quantm
 
+
 print(f'Pessoas com mais da média de idade ({media:.0f}):')
 for pplage in lista:
-    if pplage["Idade"] > media:
+    if pplage["Idade"] >= media:
         print(f'{pplage["Nome"]}: {pplage["Idade"]} anos.')
         
