@@ -1,6 +1,6 @@
 
 lista = list()
-dic = dict()
+
 quantg = 0
 
 
