@@ -21,8 +21,6 @@ for ppl in lista:
     if ppl["Sexo"] in "Ff":
         mulheres.append(ppl.copy())
 
-
-
 print('As mulheres registradas foram: ')
 for pplm in mulheres:
     print(f'{pplm["Nome"]} com {pplm["Idade"]} anos.')

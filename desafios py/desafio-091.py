@@ -1,5 +1,12 @@
 import random as rd
 
+
+
+
+
+
+
+
 nomes = list()
 dados = dict()
 cont = 0
