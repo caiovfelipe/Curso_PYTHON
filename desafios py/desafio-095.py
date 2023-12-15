@@ -21,15 +21,3 @@ for jogadorc in lista:
         num_jogo = jogoc['Jogo']
         num_gols = jogoc['Gols']
         print(f'No jogo {num_jogo}, a quantidade de gols foi: {num_gols}')
-
-#Nota
-'''
-o seguinte aconteceu:
-preciso resolver a questao do output
-
-preciso desenhar numa folha uma representação da estrutura de listas e dicionarios
-
-depois, fazer um for para o output
-    
-o output q tá ai n funciona meu amigo
-é isso'''
